@@ -1,0 +1,50 @@
+{
+    "name": "gulp-angular-translate-module-part",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jdavoff/gulp-angular-translate-module-part.git"
+    },
+    "keywords": [
+        "gulpplugin",
+        "angularJS",
+        "angular",
+        "angular-translate",
+        "gulp",
+        "javascript",
+        "js",
+        "translate",
+        "i18n",
+        "l10n",
+        "localisation",
+        "translation",
+        "internationalization",
+        "internationalisation",
+        "features",
+        "modules",
+        "tree"
+    ],
+    "author": "Josue Rios Diaz",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jdavoff/gulp-angular-translate-module-part/issues"
+    },
+    "homepage": "https://github.com/jdavoff/gulp-angular-translate-module-part#readme",
+    "devDependencies": {
+        "del": "^2.2.1",
+        "gulp": "^3.9.1"
+    },
+    "dependencies": {
+        "gulp-util": "^3.0.7",
+        "lodash": "^4.13.1",
+        "through2": "^2.0.1"
+    }
+}
