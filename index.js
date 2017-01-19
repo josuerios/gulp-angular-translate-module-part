@@ -15,7 +15,7 @@ function partialize(options) {
 
 		var self = this;
 		var filePath = file.path.replace(file.cwd, '.');
-		var splitted = filePath.split('/');
+		var splitted = filePath.split(path.sep);
 		if (subfolder) {
 
 			var subPos = splitted.indexOf(subfolder);
